@@ -3,7 +3,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "SECRET_API_KEY"
 
 openai.api_key = OPENAI_API_KEY
 
