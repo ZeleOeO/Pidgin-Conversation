@@ -1,7 +1,4 @@
 import openai
-from PIL import Image
-import requests
-from io import BytesIO
 
 OPENAI_API_KEY = "SECRET_API_KEY"
 
