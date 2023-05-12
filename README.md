@@ -1,4 +1,4 @@
-# Flask Chat App
+# Flask Pidgin Converse
 
 This is a simple Flask chat app that uses OpenAI's GPT-3 to generate responses to user input.
 
